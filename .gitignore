@@ -41,6 +41,7 @@ qtcreator-*
 /planning/cfg
 /planning/docs
 /planning/src
+ros2_ws/log/
 
 *~
 
